@@ -15,6 +15,6 @@ You can find my CV here: [Chenhao Bao’s Curriculum Vitae](../assets/CV.pdf).
 
 ### Contact
 
-- Work Email: <ahref="mailto:bch123@sjtu.edu.cn">bch123@sjtu.edu.cn</a>
-- Personal Email:<ahref="mailto:bchyes123@gmail.com">bchyes123@gmail.com</a>
+- Work Email: [bch123@sjtu.edu.cn](mailto:bch123@sjtu.edu.cn)
+- Personal Email: [bchyes123@gmail.com](mailto:bchyes123@gmail.com)
 
