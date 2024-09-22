@@ -18,3 +18,7 @@ You can find my CV here: [Chenhao Bao’s Curriculum Vitae](../assets/CV.pdf).
 - Work Email: [bch123@sjtu.edu.cn](mailto:bch123@sjtu.edu.cn)
 - Personal Email: [bchyes123@gmail.com](mailto:bchyes123@gmail.com)
 
+### Education
+
+Sept. 2021 – Jun. 2025(expected): Shanghai Jiao Tong University (SJTU), Shanghai, China 
+B.E. in Computer Science and Technology
