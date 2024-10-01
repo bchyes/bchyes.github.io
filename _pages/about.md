@@ -25,6 +25,6 @@ Sept. 2021 – Jun. 2025(expected): Shanghai Jiao Tong University (SJTU), Shangh
 B.E. in Computer Science and Technology
 
 - Major GPA: 3.94/4.3, Rank 8/33
-- Core course: Algebraic Structures(95), Honor Mathematical Analysis(99), Graph Theory and Combinatorics(96), Programming(95), Honor Linear Algeebra(93), Scientific Computation(95), Design and Analysis of Modern Algorithms(94), Probability(97), Optimization Methods(A+), Topics in Modern Algorithms(99), Computational Complexity(95), Quantum Computation(A-), Blockchain technologies(96), Information Theory(99).
+- Core course: Algebraic Structures(95), Honor Mathematical Analysis(99), Graph Theory and Combinatorics(96), Programming(95), Honor Linear Algebra(93), Scientific Computation(95), Design and Analysis of Modern Algorithms(94), Probability(97), Optimization Methods(A+), Topics in Modern Algorithms(99), Computational Complexity(95), Quantum Computation(A-), Blockchain technologies(96), Information Theory(99).
 
 ## Research Experience
