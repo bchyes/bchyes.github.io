@@ -11,7 +11,7 @@ I’m a fourth year undergraduate student from from [**ACM Honor Class**](https:
 
 I am very fortunate to be advised by [Prof. Peihan Miao](https://vivo.brown.edu/display/pmiao) at Brown University. During my junior year, I was advised by Prof. Shengli Liu at Shanghai Jiao Tong University.
 
-You can find my CV here: [Chenhao Bao’s Curriculum Vitae](../assets/CV_Chenhao Bao_2.pdf).
+You can find my CV here: [Chenhao Bao’s Curriculum Vitae](../assets/CV_Chenhao_Bao_2.pdf).
 
 ## Contact
 
